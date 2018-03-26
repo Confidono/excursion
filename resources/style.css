@@ -1,0 +1,35 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.header p {
+  text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.sub p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.letter {
+  text-align: right;
+  color: gray;
+}
